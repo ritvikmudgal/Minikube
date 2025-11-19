@@ -23,4 +23,4 @@ While AWS provides managed Kubernetes via **EKS**, you can still use Minikube **
 
 ---
 
-<img src="Screenshot (436).png">
+<img src="Screenshot (43).png" alt="____">
