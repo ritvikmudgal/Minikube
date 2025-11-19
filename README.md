@@ -23,10 +23,4 @@ While AWS provides managed Kubernetes via **EKS**, you can still use Minikube **
 
 ---
 
-##  Installation Steps
-
-### 1. **Update system**
-```sh
-sudo apt update && sudo apt upgrade -y
-
 <img src="Screenshot (436).png">
